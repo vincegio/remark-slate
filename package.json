@@ -1,5 +1,5 @@
 {
-  "name": "remark-slate",
+  "name": "remark-slate-plate",
   "version": "1.8.6",
   "description": "remark plugin to compile Markdown to a slate compatible object",
   "license": "MIT",
